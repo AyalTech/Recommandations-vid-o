@@ -1,8 +1,4 @@
 """
-Apprentissage et factorisation matricielle
-M2 - MLDS - Formation Altérnance
-Année : 2020/2021
-Étudiants :
 * ISSELNANE Hacene
 * HADDAD Ayale
 """
